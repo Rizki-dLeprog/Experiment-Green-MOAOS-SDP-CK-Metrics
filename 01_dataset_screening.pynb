@@ -24,9 +24,6 @@
     }
    ],
    "source": [
-    "# ============================================================\n",
-    "# 3. IMPORT DAN KONFIGURASI\n",
-    "# ============================================================\n",
     "\n",
     "from pathlib import Path\n",
     "from datetime import datetime\n",
